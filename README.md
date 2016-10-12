@@ -1,4 +1,5 @@
-#### <span style="color:orange">Note: This tiny script has been hardcoded specifically for RHEL/CentOS/AWS EC2</span> ####
+#### Note: This tiny script has been hardcoded specifically for RHEL/CentOS/AWS EC2 ####
+---
 
 ### Get script help
 ```bash
