@@ -1,0 +1,12 @@
+{
+  "name": "elasticsearch-gui",
+  "dependencies": {
+    "angular": "~1.4",
+    "angular-route": "~1.4",
+    "bootstrap-sass-official": "~3.3.6",
+    "c3-angular": "~1.2.0",
+    "elasticsearch": "~11.0",
+    "moment": "~2.10",
+    "ui-bootstrap": "~1.3"
+  }
+}
